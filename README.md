@@ -1,24 +1,27 @@
-# Hi, I'm Uche — AI Engineer | LLM Systems | Intelligent Decision-Making
+# Hi, I'm Uche
 
 I build intelligent systems that combine robust machine learning foundations with practical LLM engineering.  
-My journey spans the full evolutionary chain of modern AI from classical models to enterprise-scale LLM integrations. 
+
+
 ---
 
-## What I Do
+## Tech Stack & Skills
 
-### Intelligent Systems & LLM Engineering  
-- Build document-aware question-answering agents  
-- Design PDF intelligence pipelines with switchable inference engines  
-- Integrate LLMs into enterprise workflows (KPMG Africa)  
-- Build tools that combine backend intelligence with human-centered interaction patterns  
+**AI & ML**  
+Python, Transformers, LLM Engineering, Prompt Design, LangChain-style agents, Model Evaluation, Embeddings, RAG
 
+**System & Workflow Integration**  
+Automation, Cybersecurity Decision Support, Enterprise Document Pipelines
 
-### Data-Driven Product Development  
-- Web3 tooling & analytics
-- Built natural-language interfaces for querying financial and on-chain data  
-- Helped shape the strategy of the #1 token on the Aptos blockchain using data insights
+**Data Tools**  
+Web Scraping (BeautifulSoup, Requests), Pandas, API design, Data Modeling
+
+**Design & Interaction**  
+Human-Computer Interaction, UX for AI Systems, Interface Logic for Intelligent Systems
+
 
 ---
+
 
 ## Long-Term Vision
 
@@ -35,21 +38,6 @@ My goal is to explore architectures with different inductive biases — models c
 ---
 
 
-## Tech Stack & Skills
-
-**AI & ML**  
-Python, Transformers, LLM Engineering, Prompt Design, LangChain-style agents, Model Evaluation, Embeddings, RAG
-
-**System & Workflow Integration**  
-Automation, Cybersecurity Decision Support, Enterprise Document Pipelines
-
-**Data Tools**  
-Web Scraping (BeautifulSoup, Requests), Pandas, API design, Data Modeling
-
-**Design & Interaction**  
-Human-Computer Interaction, UX for AI Systems, Interface Logic for Intelligent Systems
-
----
 
 ## Contact  
 **Email:** ucheorjins@gmail.com
