@@ -34,16 +34,6 @@ My goal is to explore architectures with different inductive biases — models c
 
 ---
 
-## My Approach
-
-I treat AI as **systems**, not isolated algorithms:
-
-**ML Foundation → HCI-informed usability → Workflow integration → Intelligent LLM systems → Research vision**
-
-This perspective lets me design solutions that perform well *and* support real human decision-making.
-
----
-
 
 ## Tech Stack & Skills
 
